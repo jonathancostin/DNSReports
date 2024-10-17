@@ -14,8 +14,6 @@ This Python script fetches DNS resolution data from the **DNSTwister** API and g
 - [Output](#output)
 - [Error Handling](#error-handling)
 - [Dependencies](#dependencies)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
